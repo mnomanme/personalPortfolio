@@ -111,12 +111,12 @@ li a {
 
 /* middle section */
 
-.middle-section {
+.middle-section-banner {
 	background-image: url('/images/shapes/Frame 58.jpg');
 }
 
 #middle-photo img {
-	width: 90%;
+	width: 200px;
 }
 .middle-section {
 	width: 40%;
@@ -208,4 +208,5 @@ footer {
 	color: #7d5a5a;
 	text-align: center;
 	font-family: Roboto;
+	text-align: center;
 }

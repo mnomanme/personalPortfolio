@@ -1,115 +1,115 @@
 body {
-  font-family: "Stint Ultra Condensed", cursive;
-  margin: 0px;
-  text-align: justify;
+	font-family: 'Stint Ultra Condensed', cursive;
+	margin: 0px;
+	text-align: justify;
 }
 
 h1 {
-  font-size: 50px;
+	font-size: 50px;
 }
 
 h2 {
-  font-size: 40px;
+	font-size: 40px;
 }
 
 h3 {
-  font-size: 25px;
+	font-size: 25px;
 }
 
 p {
-  font-size: 20px;
-  color: grey;
+	font-size: 20px;
+	color: grey;
 }
 
 section {
-  height: 500px;
-  margin-bottom: 10px;
+	height: 500px;
+	margin-bottom: 10px;
 }
 
 .name-color {
-  color: goldenrod;
+	color: goldenrod;
 }
 
 /* all section */
 
 .all-section {
-  width: 40%;
-  float: left;
-  margin-left: 5%;
-  padding-left: 2%;
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
 }
 
 /* to banner */
 
 .top-banner {
-  background-image: url("/images/top-banner.png");
-  background-repeat: no-repeat;
+	background-image: url('/images/top-banner.png');
+	background-repeat: no-repeat;
 }
 
 #top-section img {
-  padding-top: 25px;
-  width: 100%;
+	padding-top: 25px;
+	width: 100%;
 }
 
 .btn-a {
-  text-decoration: none;
-  color: white;
-  /* background-color: salmon; */
-  background-image: linear-gradient(45deg, crimson, salmon, goldenrod);
-  height: 50px;
-  width: 100px;
-  padding: 10px 20px;
-  font-size: 25px;
-  border-radius: 5px;
+	text-decoration: none;
+	color: white;
+	/* background-color: salmon; */
+	background-image: linear-gradient(45deg, crimson, salmon, goldenrod);
+	height: 50px;
+	width: 100px;
+	padding: 10px 20px;
+	font-size: 25px;
+	border-radius: 5px;
 }
 
 /* middle banner */
 
 .middle-banner {
-  background-image: url(/images/dream-bg.png);
-  background-repeat: no-repeat;
-  background-position: right;
+	background-image: url(/images/dream-bg.png);
+	background-repeat: no-repeat;
+	background-position: right;
 }
 
 #middle-section img {
-  width: 95%;
+	width: 95%;
 }
 
 /* last banner */
 
 .experience {
-  padding-left: 20px;
+	padding-left: 20px;
 }
 
 .last-banner {
-  background-image: url(/images/exp-bg.png);
-  background-repeat: no-repeat;
-  background-position: left;
+	background-image: url(/images/exp-bg.png);
+	background-repeat: no-repeat;
+	background-position: left;
 }
 
 .box-area {
-  box-shadow: 10px 20px 40px brown;
-  height: 300px;
-  background-color: #faf1e6;
+	box-shadow: 10px 20px 40px brown;
+	height: 300px;
+	background-color: #faf1e6;
 }
 
 #full-stack {
-  border-left: 6px solid;
-  border-image: linear-gradient(#185adb, #0a1931);
-  border-image-slice: 2;
+	border-left: 6px solid;
+	border-image: linear-gradient(#185adb, #0a1931);
+	border-image-slice: 2;
 }
 
 #baby-stack {
-  border-left: 6px solid;
-  border-image: linear-gradient(#bb371a, #eba83a);
-  border-image-slice: 2;
+	border-left: 6px solid;
+	border-image: linear-gradient(#bb371a, #eba83a);
+	border-image-slice: 2;
 }
 
 /* footer  */
 
 footer {
-  text-align: center;
-  font-weight: 700;
-  color: #0a1931;
-  font-size: 20px;
+	text-align: center;
+	font-weight: 700;
+	color: #0a1931;
+	font-size: 20px;
 }
